@@ -12,7 +12,7 @@ We build it using Solidity, truffle and Javascript VM to build the ethereum cont
 Upgrade the contract to support three parties. So service provider can pay referral reward for referrer and referee in one contract.  
 
 ## Built With 
-**_solidity_** 
-**_ethereum 
-truffle 
+**_solidity,_** 
+**_ethereum, 
+truffle,
 javascript_**
